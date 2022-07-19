@@ -1,0 +1,6 @@
+www.matchview.co.uk	CNAME	3592	angusrosemv.github.io
+matchview.co.uk	A	86400	185.199.108.153
+matchview.co.uk	A	86400	185.199.109.153
+matchview.co.uk	A	86400	185.199.110.153
+matchview.co.uk	A	86400	185.199.111.153
+
